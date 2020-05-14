@@ -1,0 +1,36 @@
+.card-panel{
+    width: 600px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+  }
+  h4{
+      background-color: turquoise;
+      padding: 20px;
+      color: white;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      box-shadow: 1px 1px 2px grey; 
+      font-family: 'Acme', sans-serif;
+      font-size: 38px;
+    
+     
+  }
+  button[type=submit]{
+      background-color: turquoise;
+      width: 200px;
+      font-family: "Acme";
+      font-size: 19px;
+      letter-spacing: 0.75rem;
+      border-radius: 10px;
+      margin-top: 20px;
+  }
+  .input-field{
+      width: 400px;
+      display: block;
+      margin: 0 auto;
+      padding: 10px;
+  }
+label{
+    font-family: "Acme";
+}

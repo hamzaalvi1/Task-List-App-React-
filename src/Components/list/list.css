@@ -1,0 +1,21 @@
+.collection-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 588px;
+    height: 60px;
+    
+}
+.collection-item div{
+    font-size: 23px;
+    font-family: "Acme";
+    position: relative;
+}
+div span{
+ position: absolute;
+ top: -2px;
+ left: 35rem;
+}
+i{
+    color: turquoise
+}
